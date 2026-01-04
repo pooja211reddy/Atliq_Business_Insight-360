@@ -6,7 +6,6 @@ Atliq Hardware – Business Insight 360 is a Power BI dashboard delivering cross
 👉 [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDM1N2QxZWUtZWZmY00yNjltTg1NDUtMTVhYWZjMjM0ZDIzIiwiCI6ImM2ZTU0OWIzLTVmNDQtNDAzMi1hYWU5LWE0ZGMyYjJjNCJ9)
 
 
-
 ## 🎯 Business Objectives
 
 * Provide a centralized analytics platform for business performance monitoring
